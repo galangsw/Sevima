@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Menghitung Faktorial karakter selain integer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>adc945e2-b7ee-4b75-b61f-99f997bf93a1</testCaseGuid>
+</TestCaseEntity>

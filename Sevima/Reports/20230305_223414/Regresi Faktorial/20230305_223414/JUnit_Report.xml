@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Regresi Faktorial" time="33.148" tests="4" failures="0" errors="0">
+   <testsuite name="Regresi Faktorial" tests="4" failures="0" errors="0" time="33.148" skipped="0" timestamp="2023-03-05 22:34:26" hostname="macbook - localhost" id="Test Suites/Regresi Faktorial">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/macbook/Katalon Studio/Sevima/Reports/20230305_223414/Regresi Faktorial/20230305_223414"/>
+         <property name="logFiles" value="/Users/macbook/Katalon Studio/Sevima/Reports/20230305_223414/Regresi Faktorial/20230305_223414/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="macbook - localhost"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="8.4.1.208"/>
+         <property name="browser" value="Chrome 110.0.0.0"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="sessionId" value="fac014dc7f50e93be8bf1bbf555806a2"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/Menghitung Faktorial Integer" time="9.531" classname="Test Cases/Menghitung Faktorial Integer" status="PASSED">
+         <system-out><![CDATA[2023-03-05 22:34:27 - [TEST_CASE][PASSED] - Test Cases/Menghitung Faktorial Integer: Test Cases/Menghitung Faktorial Integer
+
+2023-03-05 22:34:27 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-03-05 22:34:28 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-03-05 22:34:28 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-03-05 22:34:31 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-03-05 22:34:31 - [TEST_STEP][PASSED] - navigateToUrl("https://qa.putraprima.id/"): Navigate to 'https://qa.putraprima.id/' successfully
+
+2023-03-05 22:34:34 - [MESSAGE][PASSED] - Navigate to 'https://qa.putraprima.id/' successfully
+
+2023-03-05 22:34:34 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Faktoriall/input_Kalkulator Faktorial_input"), Input): Text '1' is set on object 'Object Repository/Page_Faktoriall/input_Kalkulator Faktorial_input'
+
+2023-03-05 22:34:35 - [MESSAGE][PASSED] - Text '1' is set on object 'Object Repository/Page_Faktoriall/input_Kalkulator Faktorial_input'
+
+2023-03-05 22:34:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Faktoriall/button_Hitung                              _be4487")): Object: 'Object Repository/Page_Faktoriall/button_Hitung                              _be4487' is clicked on
+
+2023-03-05 22:34:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Faktoriall/button_Hitung                              _be4487' is clicked on
+
+2023-03-05 22:34:35 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Page_Faktoriall/div_Faktorial dari 10 adalah 3628800"), 0): Object 'Object Repository/Page_Faktoriall/div_Faktorial dari 10 adalah 3628800' is present
+
+2023-03-05 22:34:36 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-03-05 22:34:36 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Faktoriall/div_Faktorial dari 10 adalah 3628800' is present]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Menghitung Faktorial Integer" time="7.821" classname="Test Cases/Menghitung Faktorial Integer" status="PASSED">
+         <system-out><![CDATA[2023-03-05 22:34:36 - [TEST_CASE][PASSED] - Test Cases/Menghitung Faktorial Integer: Test Cases/Menghitung Faktorial Integer
+
+2023-03-05 22:34:36 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-03-05 22:34:36 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-03-05 22:34:36 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-03-05 22:34:36 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-03-05 22:34:39 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-03-05 22:34:39 - [TEST_STEP][PASSED] - navigateToUrl("https://qa.putraprima.id/"): Navigate to 'https://qa.putraprima.id/' successfully
+
+2023-03-05 22:34:41 - [MESSAGE][PASSED] - Navigate to 'https://qa.putraprima.id/' successfully
+
+2023-03-05 22:34:41 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Faktoriall/input_Kalkulator Faktorial_input"), Input): Text '10' is set on object 'Object Repository/Page_Faktoriall/input_Kalkulator Faktorial_input'
+
+2023-03-05 22:34:43 - [MESSAGE][PASSED] - Text '10' is set on object 'Object Repository/Page_Faktoriall/input_Kalkulator Faktorial_input'
+
+2023-03-05 22:34:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Faktoriall/button_Hitung                              _be4487")): Object: 'Object Repository/Page_Faktoriall/button_Hitung                              _be4487' is clicked on
+
+2023-03-05 22:34:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Faktoriall/button_Hitung                              _be4487' is clicked on
+
+2023-03-05 22:34:43 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Page_Faktoriall/div_Faktorial dari 10 adalah 3628800"), 0): Object 'Object Repository/Page_Faktoriall/div_Faktorial dari 10 adalah 3628800' is present
+
+2023-03-05 22:34:43 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-03-05 22:34:44 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Faktoriall/div_Faktorial dari 10 adalah 3628800' is present]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Menghitung Faktorial Integer" time="7.689" classname="Test Cases/Menghitung Faktorial Integer" status="PASSED">
+         <system-out><![CDATA[2023-03-05 22:34:44 - [TEST_CASE][PASSED] - Test Cases/Menghitung Faktorial Integer: Test Cases/Menghitung Faktorial Integer
+
+2023-03-05 22:34:44 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-03-05 22:34:44 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-03-05 22:34:44 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-03-05 22:34:44 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-03-05 22:34:46 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-03-05 22:34:46 - [TEST_STEP][PASSED] - navigateToUrl("https://qa.putraprima.id/"): Navigate to 'https://qa.putraprima.id/' successfully
+
+2023-03-05 22:34:49 - [MESSAGE][PASSED] - Navigate to 'https://qa.putraprima.id/' successfully
+
+2023-03-05 22:34:49 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Faktoriall/input_Kalkulator Faktorial_input"), Input): Text '170' is set on object 'Object Repository/Page_Faktoriall/input_Kalkulator Faktorial_input'
+
+2023-03-05 22:34:51 - [MESSAGE][PASSED] - Text '170' is set on object 'Object Repository/Page_Faktoriall/input_Kalkulator Faktorial_input'
+
+2023-03-05 22:34:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Faktoriall/button_Hitung                              _be4487")): Object: 'Object Repository/Page_Faktoriall/button_Hitung                              _be4487' is clicked on
+
+2023-03-05 22:34:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Faktoriall/button_Hitung                              _be4487' is clicked on
+
+2023-03-05 22:34:51 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Page_Faktoriall/div_Faktorial dari 10 adalah 3628800"), 0): Object 'Object Repository/Page_Faktoriall/div_Faktorial dari 10 adalah 3628800' is present
+
+2023-03-05 22:34:51 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-03-05 22:34:52 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Faktoriall/div_Faktorial dari 10 adalah 3628800' is present]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Menghitung Faktorial Integer" time="7.449" classname="Test Cases/Menghitung Faktorial Integer" status="PASSED">
+         <system-out><![CDATA[2023-03-05 22:34:52 - [TEST_CASE][PASSED] - Test Cases/Menghitung Faktorial Integer: Test Cases/Menghitung Faktorial Integer
+
+2023-03-05 22:34:52 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-03-05 22:34:52 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-03-05 22:34:52 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-03-05 22:34:52 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-03-05 22:34:54 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-03-05 22:34:54 - [TEST_STEP][PASSED] - navigateToUrl("https://qa.putraprima.id/"): Navigate to 'https://qa.putraprima.id/' successfully
+
+2023-03-05 22:34:57 - [MESSAGE][PASSED] - Navigate to 'https://qa.putraprima.id/' successfully
+
+2023-03-05 22:34:57 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Faktoriall/input_Kalkulator Faktorial_input"), Input): Text '171' is set on object 'Object Repository/Page_Faktoriall/input_Kalkulator Faktorial_input'
+
+2023-03-05 22:34:58 - [MESSAGE][PASSED] - Text '171' is set on object 'Object Repository/Page_Faktoriall/input_Kalkulator Faktorial_input'
+
+2023-03-05 22:34:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Faktoriall/button_Hitung                              _be4487")): Object: 'Object Repository/Page_Faktoriall/button_Hitung                              _be4487' is clicked on
+
+2023-03-05 22:34:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Faktoriall/button_Hitung                              _be4487' is clicked on
+
+2023-03-05 22:34:59 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Page_Faktoriall/div_Faktorial dari 10 adalah 3628800"), 0): Object 'Object Repository/Page_Faktoriall/div_Faktorial dari 10 adalah 3628800' is present
+
+2023-03-05 22:34:59 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-03-05 22:34:59 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Faktoriall/div_Faktorial dari 10 adalah 3628800' is present]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-03-05 22:34:26 - [TEST_SUITE][PASSED] - Regresi Faktorial: Test Cases/Menghitung Faktorial Integer]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

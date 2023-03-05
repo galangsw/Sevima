@@ -1,0 +1,8 @@
+{"testCaseName":"Test Cases/Menghitung Faktorial Integer","testCaseId":"Test Cases/Menghitung Faktorial Integer","iterationVariableName":"Input","bindedValues":{"Input":"\u00271\u0027"}}
+{"testCaseName":"Test Cases/Menghitung Faktorial Integer","testCaseId":"Test Cases/Menghitung Faktorial Integer","iterationVariableName":"Input","bindedValues":{"Input":"\u002710\u0027"}}
+{"testCaseName":"Test Cases/Menghitung Faktorial Integer","testCaseId":"Test Cases/Menghitung Faktorial Integer","iterationVariableName":"Input","bindedValues":{"Input":"\u0027170\u0027"}}
+{"testCaseName":"Test Cases/Menghitung Faktorial Integer","testCaseId":"Test Cases/Menghitung Faktorial Integer","iterationVariableName":"Input","bindedValues":{"Input":"\u0027171\u0027"}}
+{"testCaseName":"Test Cases/Menghitung Faktorial karakter selain integer","testCaseId":"Test Cases/Menghitung Faktorial karakter selain integer","iterationVariableName":""}
+{"testCaseName":"Test Cases/Menghitung Faktorial null Value","testCaseId":"Test Cases/Menghitung Faktorial null Value","iterationVariableName":""}
+{"testCaseName":"Test Cases/Click Hyperlink Privacy Policy","testCaseId":"Test Cases/Click Hyperlink Privacy Policy","iterationVariableName":""}
+{"testCaseName":"Test Cases/Click Hyperlink Terms of Service","testCaseId":"Test Cases/Click Hyperlink Terms of Service","iterationVariableName":""}

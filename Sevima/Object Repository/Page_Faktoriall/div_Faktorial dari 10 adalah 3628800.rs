@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Faktorial dari 10 adalah 3628800</name>
+   <tag></tag>
+   <elementGuidId>30d1244a-3ab4-4ed5-a637-3dedecf2e9e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'result' and (contains(text(), 'Faktorial dari') or contains(., 'Faktorial dari'))]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#result</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='result']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a9a390ab-e1e8-4f96-8695-e1149fad2efa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>result</value>
+      <webElementGuid>2badc4c9-e042-4862-acd5-e1e615e53a63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Faktorial dari</value>
+      <webElementGuid>07fc923d-2d14-4bd1-8d26-d06cf26bde1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;result&quot;)</value>
+      <webElementGuid>0f7d3ebe-7e3e-484f-bcb4-817a5a2492b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='result']</value>
+      <webElementGuid>d09c2493-7055-45cc-b423-3cce23dbc9b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kalkulator Faktorial'])[1]/following::div[6]</value>
+      <webElementGuid>d5cda98e-752f-4099-99d8-5d6dcbc5b24c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laravel v8.72.0 (PHP v8.0.10)'])[1]/preceding::div[3]</value>
+      <webElementGuid>18f922d4-57b4-434a-83f3-8c3809884d54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Faktorial dari 10 adalah: 3628800']/parent::*</value>
+      <webElementGuid>ab061ce1-7733-4f11-8e8c-b0bcbc2a8e39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div</value>
+      <webElementGuid>4029fc4b-d4d4-45d7-9100-53843d0511ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'result' and (text() = 'Faktorial dari 10 adalah: 3628800' or . = 'Faktorial dari 10 adalah: 3628800')]</value>
+      <webElementGuid>f45ec8d6-108d-491d-b0f7-3e445bf2ef56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

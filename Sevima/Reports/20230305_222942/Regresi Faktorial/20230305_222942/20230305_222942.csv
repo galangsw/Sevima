@@ -1,0 +1,37 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Regresi Faktorial,Chrome 110.0.0.0,,,2023-03-05 22:29:55,2023-03-05 22:30:40,45.062s,PASSED
+,,,,,,,
+Test Cases/Menghitung Faktorial Integer,Chrome 110.0.0.0,,,2023-03-05 22:29:56,2023-03-05 22:30:06,10.545s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-03-05 22:29:56,2023-03-05 22:30:01,4.582s,PASSED
+"navigateToUrl(""https://qa.putraprima.id/"")",Chrome 110.0.0.0,,,2023-03-05 22:30:01,2023-03-05 22:30:04,2.684s,PASSED
+"setText(findTestObject(""Object Repository/Page_Faktoriall/input_Kalkulator Faktorial_input""), ""10"")",Chrome 110.0.0.0,,,2023-03-05 22:30:04,2023-03-05 22:30:05,1.260s,PASSED
+"click(findTestObject(""Object Repository/Page_Faktoriall/button_Hitung                              _be4487""))",Chrome 110.0.0.0,,,2023-03-05 22:30:05,2023-03-05 22:30:06,0.546s,PASSED
+"verifyElementPresent(findTestObject(""Page_Faktoriall/div_Faktorial dari 10 adalah 3628800""), 0)",Chrome 110.0.0.0,,,2023-03-05 22:30:06,2023-03-05 22:30:06,0.833s,PASSED
+,,,,,,,
+Test Cases/Menghitung Faktorial karakter selain integer,Chrome 110.0.0.0,,,2023-03-05 22:30:06,2023-03-05 22:30:14,7.554s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-03-05 22:30:07,2023-03-05 22:30:09,2.450s,PASSED
+"navigateToUrl(""https://qa.putraprima.id/"")",Chrome 110.0.0.0,,,2023-03-05 22:30:09,2023-03-05 22:30:12,2.563s,PASSED
+"setText(findTestObject(""Object Repository/Page_Faktoriall/input_Kalkulator Faktorial_input""), ""abc"")",Chrome 110.0.0.0,,,2023-03-05 22:30:12,2023-03-05 22:30:13,1.270s,PASSED
+"click(findTestObject(""Object Repository/Page_Faktoriall/button_Hitung                              _be4487""))",Chrome 110.0.0.0,,,2023-03-05 22:30:13,2023-03-05 22:30:13,0.400s,PASSED
+"verifyElementPresent(findTestObject(""Page_Faktoriall/div_Please enter an integer""), 0)",Chrome 110.0.0.0,,,2023-03-05 22:30:13,2023-03-05 22:30:14,0.554s,PASSED
+,,,,,,,
+Test Cases/Menghitung Faktorial null Value,Chrome 110.0.0.0,,,2023-03-05 22:30:14,2023-03-05 22:30:21,7.447s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-03-05 22:30:14,2023-03-05 22:30:17,2.343s,PASSED
+"navigateToUrl(""https://qa.putraprima.id/"")",Chrome 110.0.0.0,,,2023-03-05 22:30:17,2023-03-05 22:30:19,2.523s,PASSED
+"setText(findTestObject(""Object Repository/Page_Faktoriall/input_Kalkulator Faktorial_input""), """")",Chrome 110.0.0.0,,,2023-03-05 22:30:19,2023-03-05 22:30:20,1.021s,PASSED
+"click(findTestObject(""Object Repository/Page_Faktoriall/button_Hitung                              _be4487""))",Chrome 110.0.0.0,,,2023-03-05 22:30:20,2023-03-05 22:30:21,0.659s,PASSED
+"verifyElementPresent(findTestObject(""Page_Faktoriall/div_Please enter an integer""), 0)",Chrome 110.0.0.0,,,2023-03-05 22:30:21,2023-03-05 22:30:21,0.602s,PASSED
+,,,,,,,
+Test Cases/Click Hyperlink Privacy Policy,Chrome 110.0.0.0,,,2023-03-05 22:30:21,2023-03-05 22:30:31,9.738s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-03-05 22:30:22,2023-03-05 22:30:24,2.276s,PASSED
+"navigateToUrl(""https://qa.putraprima.id/"")",Chrome 110.0.0.0,,,2023-03-05 22:30:24,2023-03-05 22:30:27,2.890s,PASSED
+"click(findTestObject(""Page_Faktoriall/a_Privacy Policy""))",Chrome 110.0.0.0,,,2023-03-05 22:30:27,2023-03-05 22:30:28,0.586s,PASSED
+delay(3),Chrome 110.0.0.0,,,2023-03-05 22:30:28,2023-03-05 22:30:31,3.036s,PASSED
+takeScreenshot(),Chrome 110.0.0.0,,,2023-03-05 22:30:31,2023-03-05 22:30:31,0.604s,PASSED
+,,,,,,,
+Test Cases/Click Hyperlink Terms of Service,Chrome 110.0.0.0,,,2023-03-05 22:30:31,2023-03-05 22:30:40,9.202s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-03-05 22:30:31,2023-03-05 22:30:34,2.397s,PASSED
+"navigateToUrl(""https://qa.putraprima.id/"")",Chrome 110.0.0.0,,,2023-03-05 22:30:34,2023-03-05 22:30:36,2.500s,PASSED
+"click(findTestObject(""Page_Faktoriall/a_Terms Of Service""))",Chrome 110.0.0.0,,,2023-03-05 22:30:36,2023-03-05 22:30:37,0.613s,PASSED
+delay(3),Chrome 110.0.0.0,,,2023-03-05 22:30:37,2023-03-05 22:30:40,3.009s,PASSED
+takeScreenshot(),Chrome 110.0.0.0,,,2023-03-05 22:30:40,2023-03-05 22:30:40,0.375s,PASSED

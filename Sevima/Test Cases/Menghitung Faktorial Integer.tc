@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Menghitung Faktorial Integer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9829bb3c-1d33-49f5-a6cc-e48dae65afc8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>83494a84-4029-40f4-b897-cacc765ffa3d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'171'</defaultValue>
+      <description></description>
+      <id>83494a84-4029-40f4-b897-cacc765ffa3d</id>
+      <masked>false</masked>
+      <name>Input</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,68 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Regresi Faktorial,Chrome 110.0.0.0,,,2023-03-05 22:42:28,2023-03-05 22:43:54,1m - 25.872s,FAILED
+,,,,,,,
+Test Cases/Menghitung Faktorial Integer,Chrome 110.0.0.0,,,2023-03-05 22:42:29,2023-03-05 22:42:43,14.645s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-03-05 22:42:30,2023-03-05 22:42:35,5.667s,PASSED
+"navigateToUrl(""https://qa.putraprima.id/"")",Chrome 110.0.0.0,,,2023-03-05 22:42:35,2023-03-05 22:42:38,2.738s,PASSED
+"setText(findTestObject(""Object Repository/Page_Faktoriall/input_Kalkulator Faktorial_input""), Input)",Chrome 110.0.0.0,,,2023-03-05 22:42:38,2023-03-05 22:42:39,1.354s,PASSED
+"click(findTestObject(""Object Repository/Page_Faktoriall/button_Hitung                              _be4487""))",Chrome 110.0.0.0,,,2023-03-05 22:42:39,2023-03-05 22:42:40,0.581s,PASSED
+"verifyElementPresent(findTestObject(""Page_Faktoriall/div_Faktorial dari 10 adalah 3628800""), 3)",Chrome 110.0.0.0,,,2023-03-05 22:42:40,2023-03-05 22:42:41,0.847s,PASSED
+takeScreenshot(),Chrome 110.0.0.0,,,2023-03-05 22:42:41,2023-03-05 22:42:41,0.623s,PASSED
+delay(2),Chrome 110.0.0.0,,,2023-03-05 22:42:41,2023-03-05 22:42:43,2.037s,PASSED
+,,,,,,,
+Test Cases/Menghitung Faktorial Integer,Chrome 110.0.0.0,,,2023-03-05 22:42:44,2023-03-05 22:42:54,10.190s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-03-05 22:42:44,2023-03-05 22:42:46,2.419s,PASSED
+"navigateToUrl(""https://qa.putraprima.id/"")",Chrome 110.0.0.0,,,2023-03-05 22:42:46,2023-03-05 22:42:49,2.613s,PASSED
+"setText(findTestObject(""Object Repository/Page_Faktoriall/input_Kalkulator Faktorial_input""), Input)",Chrome 110.0.0.0,,,2023-03-05 22:42:49,2023-03-05 22:42:50,1.210s,PASSED
+"click(findTestObject(""Object Repository/Page_Faktoriall/button_Hitung                              _be4487""))",Chrome 110.0.0.0,,,2023-03-05 22:42:50,2023-03-05 22:42:50,0.583s,PASSED
+"verifyElementPresent(findTestObject(""Page_Faktoriall/div_Faktorial dari 10 adalah 3628800""), 3)",Chrome 110.0.0.0,,,2023-03-05 22:42:50,2023-03-05 22:42:51,0.764s,PASSED
+takeScreenshot(),Chrome 110.0.0.0,,,2023-03-05 22:42:51,2023-03-05 22:42:52,0.541s,PASSED
+delay(2),Chrome 110.0.0.0,,,2023-03-05 22:42:52,2023-03-05 22:42:54,2.006s,PASSED
+,,,,,,,
+Test Cases/Menghitung Faktorial Integer,Chrome 110.0.0.0,,,2023-03-05 22:42:54,2023-03-05 22:43:04,10.232s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-03-05 22:42:54,2023-03-05 22:42:56,2.510s,PASSED
+"navigateToUrl(""https://qa.putraprima.id/"")",Chrome 110.0.0.0,,,2023-03-05 22:42:56,2023-03-05 22:42:59,2.421s,PASSED
+"setText(findTestObject(""Object Repository/Page_Faktoriall/input_Kalkulator Faktorial_input""), Input)",Chrome 110.0.0.0,,,2023-03-05 22:42:59,2023-03-05 22:43:00,1.339s,PASSED
+"click(findTestObject(""Object Repository/Page_Faktoriall/button_Hitung                              _be4487""))",Chrome 110.0.0.0,,,2023-03-05 22:43:00,2023-03-05 22:43:01,0.557s,PASSED
+"verifyElementPresent(findTestObject(""Page_Faktoriall/div_Faktorial dari 10 adalah 3628800""), 3)",Chrome 110.0.0.0,,,2023-03-05 22:43:01,2023-03-05 22:43:01,0.800s,PASSED
+takeScreenshot(),Chrome 110.0.0.0,,,2023-03-05 22:43:01,2023-03-05 22:43:02,0.571s,PASSED
+delay(2),Chrome 110.0.0.0,,,2023-03-05 22:43:02,2023-03-05 22:43:04,2.008s,PASSED
+,,,,,,,
+Test Cases/Menghitung Faktorial Integer,Chrome 110.0.0.0,,,2023-03-05 22:43:04,2023-03-05 22:43:16,11.604s,FAILED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-03-05 22:43:04,2023-03-05 22:43:07,2.539s,PASSED
+"navigateToUrl(""https://qa.putraprima.id/"")",Chrome 110.0.0.0,,,2023-03-05 22:43:07,2023-03-05 22:43:09,2.708s,PASSED
+"setText(findTestObject(""Object Repository/Page_Faktoriall/input_Kalkulator Faktorial_input""), Input)",Chrome 110.0.0.0,,,2023-03-05 22:43:09,2023-03-05 22:43:11,1.227s,PASSED
+"click(findTestObject(""Object Repository/Page_Faktoriall/button_Hitung                              _be4487""))",Chrome 110.0.0.0,,,2023-03-05 22:43:11,2023-03-05 22:43:11,0.547s,PASSED
+"verifyElementPresent(findTestObject(""Page_Faktoriall/div_Faktorial dari 10 adalah 3628800""), 3)",Chrome 110.0.0.0,,,2023-03-05 22:43:11,2023-03-05 22:43:16,4.554s,FAILED
+,,,,,,,
+Test Cases/Menghitung Faktorial karakter selain integer,Chrome 110.0.0.0,,,2023-03-05 22:43:16,2023-03-05 22:43:25,9.797s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-03-05 22:43:16,2023-03-05 22:43:18,2.327s,PASSED
+"navigateToUrl(""https://qa.putraprima.id/"")",Chrome 110.0.0.0,,,2023-03-05 22:43:18,2023-03-05 22:43:21,2.442s,PASSED
+"setText(findTestObject(""Object Repository/Page_Faktoriall/input_Kalkulator Faktorial_input""), ""abc"")",Chrome 110.0.0.0,,,2023-03-05 22:43:21,2023-03-05 22:43:22,1.116s,PASSED
+"click(findTestObject(""Object Repository/Page_Faktoriall/button_Hitung                              _be4487""))",Chrome 110.0.0.0,,,2023-03-05 22:43:22,2023-03-05 22:43:22,0.470s,PASSED
+"verifyElementPresent(findTestObject(""Page_Faktoriall/div_Please enter an integer""), 0)",Chrome 110.0.0.0,,,2023-03-05 22:43:22,2023-03-05 22:43:23,0.562s,PASSED
+takeScreenshot(),Chrome 110.0.0.0,,,2023-03-05 22:43:23,2023-03-05 22:43:23,0.553s,PASSED
+delay(2),Chrome 110.0.0.0,,,2023-03-05 22:43:23,2023-03-05 22:43:25,2.004s,PASSED
+,,,,,,,
+Test Cases/Menghitung Faktorial null Value,Chrome 110.0.0.0,,,2023-03-05 22:43:25,2023-03-05 22:43:35,9.534s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-03-05 22:43:26,2023-03-05 22:43:28,2.444s,PASSED
+"navigateToUrl(""https://qa.putraprima.id/"")",Chrome 110.0.0.0,,,2023-03-05 22:43:28,2023-03-05 22:43:31,2.391s,PASSED
+"setText(findTestObject(""Object Repository/Page_Faktoriall/input_Kalkulator Faktorial_input""), """")",Chrome 110.0.0.0,,,2023-03-05 22:43:31,2023-03-05 22:43:31,0.881s,PASSED
+"click(findTestObject(""Object Repository/Page_Faktoriall/button_Hitung                              _be4487""))",Chrome 110.0.0.0,,,2023-03-05 22:43:31,2023-03-05 22:43:32,0.507s,PASSED
+"verifyElementPresent(findTestObject(""Page_Faktoriall/div_Please enter an integer""), 0)",Chrome 110.0.0.0,,,2023-03-05 22:43:32,2023-03-05 22:43:33,0.537s,PASSED
+takeScreenshot(),Chrome 110.0.0.0,,,2023-03-05 22:43:33,2023-03-05 22:43:33,0.451s,PASSED
+delay(2),Chrome 110.0.0.0,,,2023-03-05 22:43:33,2023-03-05 22:43:35,2.005s,PASSED
+,,,,,,,
+Test Cases/Click Hyperlink Privacy Policy,Chrome 110.0.0.0,,,2023-03-05 22:43:35,2023-03-05 22:43:45,9.593s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-03-05 22:43:35,2023-03-05 22:43:38,2.447s,PASSED
+"navigateToUrl(""https://qa.putraprima.id/"")",Chrome 110.0.0.0,,,2023-03-05 22:43:38,2023-03-05 22:43:41,2.865s,PASSED
+"click(findTestObject(""Page_Faktoriall/a_Privacy Policy""))",Chrome 110.0.0.0,,,2023-03-05 22:43:41,2023-03-05 22:43:41,0.547s,PASSED
+delay(3),Chrome 110.0.0.0,,,2023-03-05 22:43:41,2023-03-05 22:43:44,3.006s,PASSED
+takeScreenshot(),Chrome 110.0.0.0,,,2023-03-05 22:43:44,2023-03-05 22:43:45,0.465s,PASSED
+,,,,,,,
+Test Cases/Click Hyperlink Terms of Service,Chrome 110.0.0.0,,,2023-03-05 22:43:45,2023-03-05 22:43:54,9.062s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-03-05 22:43:45,2023-03-05 22:43:47,2.163s,PASSED
+"navigateToUrl(""https://qa.putraprima.id/"")",Chrome 110.0.0.0,,,2023-03-05 22:43:47,2023-03-05 22:43:50,2.523s,PASSED
+"click(findTestObject(""Page_Faktoriall/a_Terms Of Service""))",Chrome 110.0.0.0,,,2023-03-05 22:43:50,2023-03-05 22:43:50,0.598s,PASSED
+delay(3),Chrome 110.0.0.0,,,2023-03-05 22:43:50,2023-03-05 22:43:53,3.008s,PASSED
+takeScreenshot(),Chrome 110.0.0.0,,,2023-03-05 22:43:53,2023-03-05 22:43:54,0.503s,PASSED
